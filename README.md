@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm a **fresh graduate** passionate about leveragi
 
 ## 💬 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/henrykong0112)
+- 💼 [LinkedIn] www.linkedin.com/in/henrykong0112
 - 📧 Email me: [henrykong0112@gmail.com]
 
