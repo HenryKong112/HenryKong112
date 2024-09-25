@@ -18,3 +18,7 @@ Welcome to my GitHub profile! I'm a **fresh graduate** passionate about leveragi
 - 💼 [LinkedIn] www.linkedin.com/in/henrykong0112
 - 📧 Email me: [henrykong0112@gmail.com]
 
+## 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=HenryKong112&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryKong112&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
